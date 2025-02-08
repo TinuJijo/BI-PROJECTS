@@ -4,9 +4,9 @@ This repository showcases my journey in Business Intelligence, highlighting proj
 
 📌 **What You'll Find Here:**
 
-Data-driven dashboards and reports
-Interactive visualizations for decision-making
-Real-world BI case studies and analyses
+- Data-driven dashboards and reports
+- Interactive visualizations for decision-making
+- Real-world BI case studies and analyses
 🔹 **Skills:** Data modeling, ETL, KPI analysis, storytelling with data
 🔹 **Tools:** Power BI, Tableau, SQL, Excel, Python
 
