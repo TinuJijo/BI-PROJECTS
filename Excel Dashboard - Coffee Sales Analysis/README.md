@@ -1,5 +1,5 @@
 # Interactive Coffee Sales Dashboard in Excel
-
+https://github.com/user-attachments/assets/9450cc98-2888-49b4-bdf3-c782d3df8439
 ## Project Overview
 This project demonstrates my proficiency in data analysis and visualization using Microsoft Excel. I developed a dynamic and interactive dashboard to analyze coffee bean sales data, providing key insights into sales trends, customer demographics, and product performance. The project involved a complete data lifecycle, from data gathering and transformation to interactive dashboard creation.
 
@@ -54,4 +54,3 @@ This project demonstrates my proficiency in data analysis and visualization usin
 
 ## Reflection
 This project provided valuable experience in data analysis, visualization, and dashboard design. I gained proficiency in using Excel's advanced features to create interactive and insightful dashboards. I also learned the importance of considering user experience and accessibility in dashboard design.
-
