@@ -1,7 +1,7 @@
 # PlantCo Performance Analysis: A Dynamic Reporting Solution
 
 ## Project Overview
-This Power BI project showcases the development of a dynamic and interactive performance report for a fictional company, PlantCo. The report empowers users to analyze key business metrics, including sales, gross profit, and quantity, on both a year-to-date and prior-year-to-date basis. Leveraging switch measures and conditional formatting, the report provides a clear and concise overview of performance trends, highlighting areas of growth and potential concern.
+This Power BI project showcases the development of a dynamic and interactive performance report for a fictional company, PlantCo. The report empowers users to analyze key business metrics, including sales, gross profit, and quantity, on both a year-to-date and prior-year-to-date basis. Leveraging switch measures and conditional formatting, the report provides a clear and concise overview of performance trends, highlighting areas of growth and potential concern
 
 https://github.com/user-attachments/assets/94fab8f3-1a0a-4cfb-a30b-34f381a48567
 
